@@ -1,0 +1,7 @@
+D:\heavyProjects\consoleApp\CSLight\CSLight\bin\Debug\CSLight.exe.config
+D:\heavyProjects\consoleApp\CSLight\CSLight\bin\Debug\CSLight.exe
+D:\heavyProjects\consoleApp\CSLight\CSLight\bin\Debug\CSLight.pdb
+D:\heavyProjects\consoleApp\CSLight\CSLight\obj\Debug\CSLight.csproj.AssemblyReference.cache
+D:\heavyProjects\consoleApp\CSLight\CSLight\obj\Debug\CSLight.csproj.CoreCompileInputs.cache
+D:\heavyProjects\consoleApp\CSLight\CSLight\obj\Debug\CSLight.exe
+D:\heavyProjects\consoleApp\CSLight\CSLight\obj\Debug\CSLight.pdb
